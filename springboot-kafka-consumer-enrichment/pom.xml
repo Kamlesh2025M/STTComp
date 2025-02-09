@@ -3,12 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>spring-boot-kafka-producer</artifactId>
+    <artifactId>springboot-kafka-consumer-enrichment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>spring-boot-kafka-producer</name>
-    <description>Spring Boot Project with Distributed Tracing</description>
+    <name>springboot-kafka-consumer-enrichment</name>
+    <description>Spring Boot Kafka Consumer for Enrichment with Distributed Tracing</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>

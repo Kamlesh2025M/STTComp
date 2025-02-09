@@ -1,7 +1,5 @@
 package com.example.ignite;
 
-import org.apache.ignite.Ignite;
-import org.apache.ignite.IgniteCache;
 import org.apache.ignite.client.IgniteClient;
 import org.apache.ignite.client.ClientCache;
 import org.apache.ignite.client.ClientConfiguration;
